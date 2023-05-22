@@ -1,0 +1,41 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    border: 10px solid rgb(4,4,37);
+}
+p {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    word-spacing: 10%;
+    letter-spacing: 0.60px;
+    display: block;
+    padding: 2px;
+    margin: 2px;
+}
+.div {
+    font-size: 16px;
+    font-family: "Times New Roman", Times,serif;
+    line-height: 30px;
+    word-spacing: 1px;
+    padding: 20px;
+}
+#list {
+    padding: 10px;
+    display: block;
+    list-style: disc;
+    font-size: 16px;
+font-family: 'Times New Roman', Times, serif;
+line-height: 30px;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 40px;
+}
+.footer {
+    justify-content: end;
+    text-align: end;
+}
